@@ -1,6 +1,6 @@
 # Bakery
 
-*A Website template for a bakery business, displaying multiple sections, and the website is fully responsive🏆*
+*A Website for a bakery business, displaying multiple sections, and the website is fully responsive🏆*
 
 
 
